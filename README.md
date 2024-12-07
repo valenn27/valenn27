@@ -27,6 +27,17 @@ I enjoy learning new technologies and building innovative, productive, and creat
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/valeennp_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+
+
+## 📊 My Github Stats:
+<br>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=valenn27&show_icons=true&theme=github_dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=valenn27&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</p>
+
+
+
+
 
