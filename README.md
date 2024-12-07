@@ -33,8 +33,8 @@ I enjoy learning new technologies and building innovative, productive, and creat
 ## 📊 My Github Stats:
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=valenn27&show_icons=true&theme=github_dark" style="display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=valenn27&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=valenn27&show_icons=true&theme=github_dark" style="display: inline;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=valenn27&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" style="display: inline;" />
 </p>
 
 
