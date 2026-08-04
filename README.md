@@ -1,16 +1,16 @@
-<h1 align="center"><b>Hi , I'm Valentino Pagés </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , soy Valentino Pagés </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-### 🤵 About Me:
-My name is Valentino Pages, and I am currently studying programming at UTN Avellaneda. 
-I am passionate about both front-end and back-end development,
-i'm still learning and have a strong desire to work in the field
-I enjoy learning new technologies and building innovative, productive, and creative solutions
-- 🌱 I’m currently learning... 
-- 👯 I’m always looking to collaborate with: anything project
-- 💬 Ask me about: anything, I am happy to help
-- 😄 Interests: videogames, programming, movies, internet culture, others
+🤵 Sobre mí:
+Mi nombre es Valentino Pages y estoy graduado de la tecnicatura en programación en la UTN Avellaneda. Me apasiona tanto el desarrollo front-end como el back-end, todavía estoy aprendiendo y tengo muchas ganas de trabajar en este campo. Disfruto aprender nuevas tecnologías y crear soluciones innovadoras, productivas y creativas.
+
+🌱 Actualmente estoy aprendiendo...
+👯 Siempre estoy buscando colaborar en: cualquier proyecto
+💬 Pregúntame sobre: lo que quieras, estoy para ayudar
+😄 Intereses: videojuegos, programación, películas, cultura de internet, otros
+
+Dejé el punto de "Actualmente estoy aprendiendo..." sin completar porque en el original tampoco tenía contenido — si querés lo completamos juntos.
 
 <br>
 <br> 
