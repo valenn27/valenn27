@@ -34,14 +34,6 @@ Dejé el punto de "Actualmente estoy aprendiendo..." sin completar porque en el 
 <a href="https://www.linkedin.com/in/valentino-pages/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-## 📊 My Github Stats:
-<a href="https://github.com/valenn27">
-  <img src="https://github-readme-stats.vercel.app/api?username=valenn27&&show_icons=true&count_private=true&theme=github_dark">
-</a>
-<a href="https://github.com/valenn27">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valenn27&theme=blueberry_duo"/>
-</a>
-
 
 
 
